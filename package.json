@@ -1,0 +1,15 @@
+{
+  "name": "storyteller",
+  "version": "1.0.0",
+  "description": "App to share stories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Andrzej Rumak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
+  }
+}
